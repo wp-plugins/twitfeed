@@ -9,6 +9,8 @@ Connect to the twitter stream and feed live twets to your blog.
 
 == Description ==
 
+Demo: http://zenwerx.com/projects/twitfeed/
+
 This plugin can be used to connect to the twitter stream and feed your blog 
 with content in real time. There are three options for how you can receive
 data from twitter: Follow Users, Follow Track, and Sample.
@@ -24,7 +26,6 @@ is set to take only 1/50th of sample tweets (about 1 every 5 seconds).
 = Author =
 Michael Carpenter
 http://zenwerx.com/
-mcarpent@zenwerx.com
 
 
 == Installation ==
