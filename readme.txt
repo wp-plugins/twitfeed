@@ -1,5 +1,5 @@
 === TwitFeed ===
-Contributers: ahsile
+Contributors: ahsile
 Tags: twitter, stream
 Requires at least: 3.0.1
 Tested up to: 3.0.1
@@ -27,7 +27,7 @@ http://zenwerx.com/
 mcarpent@zenwerx.com
 
 
-== Instructions ==
+== Installation ==
 
 Requirements:
 
