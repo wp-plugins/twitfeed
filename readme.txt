@@ -24,7 +24,6 @@ is set to take only 1/50th of sample tweets (about 1 every 5 seconds).
 = Author =
 Michael Carpenter
 http://zenwerx.com/
-mcarpent@zenwerx.com
 
 
 == Installation ==
